@@ -171,6 +171,11 @@ try:
 except KeyboardInterrupt:
     print("\nReady to make choice.")
 
+# Stop the airodump-ng process before starting the attack
+discover_access_points.terminate()
+discover_access_points.wait()
+print("Scanning stopped.")
+
 # Ensure that the input choice is valid.
 while True:
     # If you don't make a choice from the options available in the list, 
