@@ -1,18 +1,25 @@
-<!-- README-AI-SIGNATURE:89d3826f85caf438 -->
-```markdown
-# Orpheus Portfolio
+<!-- README-AI-SIGNATURE:20260328002101 -->
+# orpheus-portfolio
 
-A personal portfolio project showcasing design and development skills.
+Welcome to the Orpheus Portfolio project! This repository showcases a beautifully designed portfolio website, primarily built with CSS, aimed at presenting creative work in an elegant manner. The project includes various images and a structured layout to enhance user experience.
 
-![CSS](https://img.shields.io/badge/Language-CSS-blue.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/MoaazMustafa/orpheus-portfolio) ![GitHub language count](https://img.shields.io/github/languages/count/MoaazMustafa/orpheus-portfolio) ![GitHub top language](https://img.shields.io/github/languages/top/MoaazMustafa/orpheus-portfolio)
 
-## Key Features
+## ✨ Key Features
 
-- Responsive design
-- Custom styling with CSS
-- Image gallery showcasing various artworks
+### 🎨 Elegant Design
+- Utilizes modern CSS techniques for a visually appealing layout.
+- Incorporates high-quality images to enhance the aesthetic of the portfolio.
 
-## Project Structure
+### 📱 Responsive Layout
+- Ensures compatibility across various devices and screen sizes.
+- Adapts the design seamlessly for mobile and desktop views.
+
+### ⚙️ Interactive Elements
+- Includes JavaScript for dynamic interactions and enhanced user engagement.
+- Features smooth transitions and animations for a polished experience.
+
+## 🏗️ Project Structure
 
 ```
 orpheus-portfolio/
@@ -27,40 +34,24 @@ orpheus-portfolio/
 └── style.css
 ```
 
-- `index.html`: The main HTML file for the portfolio.
-- `style.css`: The stylesheet for custom styles.
-- `script.js`: JavaScript file for any interactive features.
-- `images/`: Directory containing images used in the portfolio.
+## 🚀 Getting Started
 
-## Getting Started
+To get started with the Orpheus Portfolio, clone the repository and open the `index.html` file in your web browser:
 
-To get a local copy up and running, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MoaazMustafa/orpheus-portfolio.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd orpheus-portfolio
-   ```
-3. Open `index.html` in your web browser to view the portfolio.
-
-## Scripts
-
-No specific build scripts are defined. The project is a static site and can be run directly from the HTML file.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```bash
+git clone https://github.com/MoaazMustafa/orpheus-portfolio.git
+cd orpheus-portfolio
+open index.html
 ```
+
+## 📜 Scripts
+
+Currently, there are no specific scripts defined in package configuration files. However, you can run the JavaScript file directly in the browser as part of the HTML page.
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure to follow the project's coding standards and guidelines.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
