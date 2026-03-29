@@ -1,9 +1,9 @@
-<!-- README-AI-SIGNATURE:20260328002101 -->
+<!-- README-AI-SIGNATURE:20260329025310 -->
 # orpheus-portfolio
 
 Welcome to the Orpheus Portfolio project! This repository showcases a beautifully designed portfolio website, primarily built with CSS, aimed at presenting creative work in an elegant manner. The project includes various images and a structured layout to enhance user experience.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MoaazMustafa/orpheus-portfolio) ![GitHub language count](https://img.shields.io/github/languages/count/MoaazMustafa/orpheus-portfolio) ![GitHub top language](https://img.shields.io/github/languages/top/MoaazMustafa/orpheus-portfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/MoaazMustafa/orpheus-portfolio) ![GitHub language count](https://img.shields.io/github/languages/count/MoaazMustafa/orpheus-portfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/MoaazMustafa/orpheus-portfolio)
 
 ## ✨ Key Features
 
@@ -46,11 +46,16 @@ open index.html
 
 ## 📜 Scripts
 
-Currently, there are no specific scripts defined in package configuration files. However, you can run the JavaScript file directly in the browser as part of the HTML page.
+The project includes a JavaScript file for interactive features. You can run the following command to start a local server for testing:
+
+```bash
+# If you have a local server setup, use:
+python -m http.server
+```
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure to follow the project's coding standards and guidelines.
+Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure to follow the project's coding standards and include relevant documentation.
 
 ## 📄 License
 
