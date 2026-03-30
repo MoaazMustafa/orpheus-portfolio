@@ -1,23 +1,21 @@
-<!-- README-AI-SIGNATURE:20260329025310 -->
+<!-- README-AI-SIGNATURE:20260330025640 -->
 # orpheus-portfolio
 
-Welcome to the Orpheus Portfolio project! This repository showcases a beautifully designed portfolio website, primarily built with CSS, aimed at presenting creative work in an elegant manner. The project includes various images and a structured layout to enhance user experience.
+Welcome to the Orpheus Portfolio project! This repository showcases a beautifully designed portfolio website, primarily built using CSS. It serves as a personal showcase for creative work, featuring a modern aesthetic and responsive design.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MoaazMustafa/orpheus-portfolio) ![GitHub language count](https://img.shields.io/github/languages/count/MoaazMustafa/orpheus-portfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/MoaazMustafa/orpheus-portfolio)
 
 ## ✨ Key Features
 
 ### 🎨 Elegant Design
-- Utilizes modern CSS techniques for a visually appealing layout.
-- Incorporates high-quality images to enhance the aesthetic of the portfolio.
+- A visually appealing layout that highlights creative work.
+- Use of high-quality images to enhance the overall aesthetic.
 
 ### 📱 Responsive Layout
-- Ensures compatibility across various devices and screen sizes.
-- Adapts the design seamlessly for mobile and desktop views.
+- Optimized for various screen sizes, ensuring a seamless experience on mobile and desktop devices.
 
 ### ⚙️ Interactive Elements
-- Includes JavaScript for dynamic interactions and enhanced user engagement.
-- Features smooth transitions and animations for a polished experience.
+- JavaScript functionality to enhance user interaction and engagement.
 
 ## 🏗️ Project Structure
 
@@ -46,16 +44,11 @@ open index.html
 
 ## 📜 Scripts
 
-The project includes a JavaScript file for interactive features. You can run the following command to start a local server for testing:
-
-```bash
-# If you have a local server setup, use:
-python -m http.server
-```
+Currently, there are no specific scripts defined in package management files. However, you can run the JavaScript file directly in the browser as part of the HTML page.
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure to follow the project's coding standards and include relevant documentation.
+Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure that your code adheres to the project's style guidelines.
 
 ## 📄 License
 
