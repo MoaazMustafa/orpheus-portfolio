@@ -1,21 +1,23 @@
-<!-- README-AI-SIGNATURE:20260330025640 -->
+<!-- README-AI-SIGNATURE:20260331024858 -->
 # orpheus-portfolio
 
-Welcome to the Orpheus Portfolio project! This repository showcases a beautifully designed portfolio website, primarily built using CSS. It serves as a personal showcase for creative work, featuring a modern aesthetic and responsive design.
+Welcome to the Orpheus Portfolio project! This repository showcases a beautifully designed portfolio website, primarily built with CSS, aimed at presenting creative work in an elegant manner. The project includes various images and a structured layout to enhance user experience.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MoaazMustafa/orpheus-portfolio) ![GitHub language count](https://img.shields.io/github/languages/count/MoaazMustafa/orpheus-portfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/MoaazMustafa/orpheus-portfolio)
 
 ## ✨ Key Features
 
 ### 🎨 Elegant Design
-- A visually appealing layout that highlights creative work.
-- Use of high-quality images to enhance the overall aesthetic.
+- Utilizes CSS for a clean and modern aesthetic.
+- Responsive layout to ensure compatibility across devices.
 
-### 📱 Responsive Layout
-- Optimized for various screen sizes, ensuring a seamless experience on mobile and desktop devices.
+### 🖼️ Rich Media
+- Includes a variety of images to enhance visual appeal.
+- Background images and icons are thoughtfully selected to complement the overall theme.
 
-### ⚙️ Interactive Elements
-- JavaScript functionality to enhance user interaction and engagement.
+### 📄 HTML Structure
+- Well-organized HTML file for easy navigation and updates.
+- Semantic elements used for better accessibility and SEO.
 
 ## 🏗️ Project Structure
 
@@ -44,7 +46,11 @@ open index.html
 
 ## 📜 Scripts
 
-Currently, there are no specific scripts defined in package management files. However, you can run the JavaScript file directly in the browser as part of the HTML page.
+Currently, there are no specific scripts defined in the repository. However, you can run the following command to view the project in your browser:
+
+```bash
+open index.html
+```
 
 ## 🤝 Contributing
 
@@ -52,4 +58,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
