@@ -1,23 +1,23 @@
-<!-- README-AI-SIGNATURE:20260331024858 -->
+<!-- README-AI-SIGNATURE:20260401032002 -->
 # orpheus-portfolio
 
 Welcome to the Orpheus Portfolio project! This repository showcases a beautifully designed portfolio website, primarily built with CSS, aimed at presenting creative work in an elegant manner. The project includes various images and a structured layout to enhance user experience.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MoaazMustafa/orpheus-portfolio) ![GitHub language count](https://img.shields.io/github/languages/count/MoaazMustafa/orpheus-portfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/MoaazMustafa/orpheus-portfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/MoaazMustafa/orpheus-portfolio) ![GitHub language count](https://img.shields.io/github/languages/count/MoaazMustafa/orpheus-portfolio) ![GitHub top language](https://img.shields.io/github/languages/top/MoaazMustafa/orpheus-portfolio)
 
 ## ✨ Key Features
 
 ### 🎨 Elegant Design
-- Utilizes CSS for a clean and modern aesthetic.
-- Responsive layout to ensure compatibility across devices.
+- Utilizes modern CSS techniques for a visually appealing layout.
+- Incorporates high-quality images to enhance the aesthetic appeal.
 
-### 🖼️ Rich Media
-- Includes a variety of images to enhance visual appeal.
-- Background images and icons are thoughtfully selected to complement the overall theme.
+### 📱 Responsive Layout
+- Ensures compatibility across various devices and screen sizes.
+- Adapts the design seamlessly for mobile and desktop views.
 
-### 📄 HTML Structure
-- Well-organized HTML file for easy navigation and updates.
-- Semantic elements used for better accessibility and SEO.
+### ⚙️ Interactive Elements
+- Includes JavaScript for dynamic interactions and user engagement.
+- Enhances user experience with smooth transitions and animations.
 
 ## 🏗️ Project Structure
 
@@ -46,16 +46,17 @@ open index.html
 
 ## 📜 Scripts
 
-Currently, there are no specific scripts defined in the repository. However, you can run the following command to view the project in your browser:
+The project includes a JavaScript file for interactive features. You can run the following command to start a local server for testing:
 
 ```bash
-open index.html
+# If you have a local server setup, use:
+python -m http.server
 ```
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure that your code adheres to the project's style guidelines.
+Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure to follow the project's coding standards and guidelines.
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
