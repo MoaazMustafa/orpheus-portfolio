@@ -1,23 +1,23 @@
-<!-- README-AI-SIGNATURE:20260402024515 -->
+<!-- README-AI-SIGNATURE:20260403024816 -->
 # orpheus-portfolio
 
-Welcome to the Orpheus Portfolio project! This repository showcases a beautifully designed portfolio website, primarily built using CSS. It serves as a personal showcase for creative work, featuring a modern aesthetic and responsive design.
+Welcome to the Orpheus Portfolio project! This repository showcases a beautifully designed portfolio website, primarily built with CSS, aimed at presenting creative work in an elegant manner. The project includes various images and a structured layout to enhance user experience.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MoaazMustafa/orpheus-portfolio) ![GitHub language count](https://img.shields.io/github/languages/count/MoaazMustafa/orpheus-portfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/MoaazMustafa/orpheus-portfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/MoaazMustafa/orpheus-portfolio) ![GitHub language count](https://img.shields.io/github/languages/count/MoaazMustafa/orpheus-portfolio) ![GitHub top language](https://img.shields.io/github/languages/top/MoaazMustafa/orpheus-portfolio)
 
 ## ✨ Key Features
 
 ### 🎨 Elegant Design
-- A visually appealing layout that highlights creative work.
-- Use of high-quality images to enhance the overall aesthetic.
+- Utilizes modern CSS techniques for a visually appealing layout.
+- Incorporates high-quality images to enhance the aesthetic of the portfolio.
 
 ### 📱 Responsive Layout
-- Mobile-friendly design that adapts to various screen sizes.
-- Ensures a seamless user experience across devices.
+- Ensures compatibility across various devices and screen sizes.
+- Adapts the design seamlessly for mobile and desktop views.
 
 ### ⚙️ Interactive Elements
-- JavaScript functionality to enhance user interaction.
-- Smooth transitions and animations for a modern feel.
+- Includes JavaScript for dynamic interactions and enhanced user engagement.
+- Features smooth transitions and animations for a polished experience.
 
 ## 🏗️ Project Structure
 
@@ -46,16 +46,11 @@ open index.html
 
 ## 📜 Scripts
 
-This project includes a JavaScript file for interactive features. You can run the following command to start a local server for development:
-
-```bash
-# If you have a local server setup, use:
-python -m http.server
-```
+Currently, there are no specific scripts defined in package configuration files. However, you can run the JavaScript file directly in the browser as part of the HTML page.
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure your code adheres to the project's style guidelines.
+Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure to follow the project's coding standards and guidelines.
 
 ## 📄 License
 
